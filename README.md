@@ -12,4 +12,4 @@ python crypto_dca_bot.py
 
 The first time you run it with no coins configured, it tells you to add some. After that, no-args fetches and logs prices.
 
-<!-- updated: 2026-10-05 -->
+<!-- updated: 2026-10-06 -->
